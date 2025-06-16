@@ -4,7 +4,7 @@ This project analyzes the unemployment trends in India using Python. It highligh
 
 ## 📁 Files Included
 - `Unemployment_Analysis.ipynb`: Jupyter notebook with full analysis, plots, and insights
-- `Unemployment_Data.csv`: dataset
+- `Unemployment in India.csv`: dataset
 
 ## 🧠 What I Did
 - Cleaned and preprocessed the dataset
